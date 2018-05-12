@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 35471-h/images/001_cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35471#Through-Mountains-and-Canyons---The-Canadian-Rockies
 gutenberg_issued: '2011-03-03'
 gutenberg_type: Text
 identifiers:
