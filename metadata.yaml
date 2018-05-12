@@ -1,0 +1,27 @@
+_repo: Through-Mountains-and-Canyons---The-Canadian-Rockies_35471
+_version: 0.1.0
+contributor:
+  photographer:
+    agent_name: William Notman & Son
+    aliases:
+    - Notman & Son
+    - William Notman and Son
+    gutenberg_agent_id: '37698'
+    url: http://www.gutenberg.org/2009/agents/37698
+covers:
+- cover_type: archival
+  image_path: 35471-h/images/001_cover.png
+description: ''
+gutenberg_issued: '2011-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian Rockies (B.C. and Alta.) -- Pictorial works'
+- !lcc 'F1001'
+title: Through Mountains and Canyons - The Canadian Rockies
+url: http://www.gutenberg.org/ebooks/35471
